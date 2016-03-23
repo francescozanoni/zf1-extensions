@@ -1,0 +1,13 @@
+{
+    "name": "francescozanoni/zendframework1-extensions",
+    "description": "Custom extensions of Zend Framework 1",
+    "require": {
+        "zendframework/zendframework1": "^1.12"
+    },
+    "authors": [
+        {
+            "name": "Francesco Zanoni",
+            "email": "francescozanoni81@gmail.com"
+        }
+    ]
+}
