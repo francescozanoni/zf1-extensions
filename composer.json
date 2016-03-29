@@ -1,6 +1,8 @@
 {
     "name": "francescozanoni/zendframework1-extensions",
     "description": "Custom extensions of Zend Framework 1",
+    "version": "1.0.0",
+    "type": "library",
     "require": {
         "zendframework/zendframework1": "^1.12"
     },
