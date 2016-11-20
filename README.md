@@ -16,7 +16,7 @@ Custom extensions of Zend Framework 1:
 ## Installation
 
 ### With Composer
-1. add the repository to composer.json and require the package:
+Add the repository to composer.json and require the package:
 
     {
        "repositories": [
