@@ -1,5 +1,5 @@
 # zf1-extensions
-Custom extensions of Zend Framework 1
+Custom extensions of Zend Framework 1:
 
   - base URL property populated in each form element, used by AJAX-based form elements such as ZendX_JQuery_Form_Element_AutoComplete:
     - Fz_Form
