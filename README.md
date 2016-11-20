@@ -36,3 +36,6 @@ Add the repository to composer.json and require the package:
 
         includePaths.library = "/path/to/application/library"
         autoloadernamespaces[] = "Fz_"
+
+## References
+  - https://github.com/feibeck/application.ini
