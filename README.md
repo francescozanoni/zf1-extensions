@@ -9,3 +9,6 @@ Custom extensions of Zend Framework 1
     - Fz_Form_Element_Submit
   - resource loader for custom resource, e.g. traits:
     - Fz_Resource_Resourceloader
+  - data validation (existence check) against database:
+    - Fz_Validate_Db_RecordsExist
+    - Fz_Validate_Db_JsonRecordsExist
