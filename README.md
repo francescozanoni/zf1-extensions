@@ -12,3 +12,18 @@ Custom extensions of Zend Framework 1:
   - data validation (existence check) against database:
     - Fz_Validate_Db_RecordsExist
     - Fz_Validate_Db_JsonRecordsExist
+
+## Installation
+Add the repository to composer.json:
+
+    {
+       "repositories": [
+          {
+             "url": "https://github.com/francescozanoni/zf1-extensions.git",
+             "type": "git"
+          }
+       ],
+       "require": {
+          "francescozanoni/zf1-extensions": "dev-master"
+       }
+    }
