@@ -7,3 +7,5 @@ Custom extensions of Zend Framework 1
     - Fz_Form_Element_Hash
     - Fz_Form_Element_Hidden
     - Fz_Form_Element_Submit
+  - resource loader for custom resource, e.g. traits:
+    - Fz_Resource_Resourceloader
