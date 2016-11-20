@@ -39,3 +39,6 @@ Add the repository to composer.json and require the package:
 
 ## References
   - https://github.com/feibeck/application.ini
+  - https://juriansluiman.nl/article/106/hide-hidden-zend_form-elements
+  - http://stackoverflow.com/questions/481871/zend-framework-how-do-i-remove-the-decorators-on-a-zend-form-hidden-element
+  - http://stackoverflow.com/questions/10357846/how-to-add-a-resource-type-via-application-ini
