@@ -34,5 +34,5 @@ Add the repository to composer.json and require the package:
 1. add source folder to application's library folder
 1. add the following settings to application.ini:
 
-    includePaths.library = "/path/to/application/library"
-    autoloadernamespaces[] = "Fz_"
+        includePaths.library = "/path/to/application/library"
+        autoloadernamespaces[] = "Fz_"
