@@ -8,9 +8,12 @@
     },
     "autoload": {
         "psr-0": {
-            "Fz_": ""
+            "Fz_": "library/"
         }
     },
+    "include-path": [
+        "library/"
+    ],
     "authors": [
         {
             "name": "Francesco Zanoni",
