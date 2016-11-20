@@ -8,11 +8,11 @@
     },
     "autoload": {
         "psr-0": {
-            "Fz_": ""
+            "Fz_": "."
         }
     },
     "include-path": [
-        ""
+        "."
     ],
     "authors": [
         {
