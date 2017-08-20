@@ -3,7 +3,7 @@
 /**
  * @category   Fz
  * @package    Fz_Form
- * @version    2015-09-09
+ * @version    2017-08-20
  */
 /**
  * @see Zend_Form
@@ -28,11 +28,8 @@ class Fz_Form extends Zend_Form {
 
 	public function __construct($options = null) {
 		$this->addPrefixPath('Fz_Form_', 'Fz/Form/');
-		parent::__construct($options);
-	}
-	
-	public function init() {
 		$this->_baseUrl = Zend_Controller_Front::getInstance()->getBaseUrl();
+		parent::__construct($options);
 	}
 
 }
