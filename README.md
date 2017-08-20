@@ -26,7 +26,7 @@ Add the repository to composer.json and require the package:
           }
        ],
        "require": {
-          "francescozanoni/zf1-extensions": "dev-master"
+          "francescozanoni/zf1-extensions": "^1.0"
        }
     }
 
