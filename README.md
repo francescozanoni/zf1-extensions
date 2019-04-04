@@ -12,6 +12,7 @@ Custom extensions of Zend Framework 1:
   - data validation (existence check) against database:
     - Fz_Validate_Db_RecordsExist
     - Fz_Validate_Db_JsonRecordsExist
+    - Fz_Validate_NotIdentical
 
 ## Installation
 
