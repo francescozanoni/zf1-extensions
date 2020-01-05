@@ -18,7 +18,7 @@ require_once 'Zend/Controller/Front.php';
  * elements such as ZendX_JQuery_Form_Element_AutoComplete.
  *
  * @category   Fz
- * @package    Fz_Form
+ * @package    Fz
  * @uses       Zend_Form
  * @uses       Zend_Controller_Front
  */

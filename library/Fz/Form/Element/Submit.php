@@ -24,7 +24,7 @@ class Fz_Form_Element_Submit extends Zend_Form_Element_Submit {
 	public function render(Zend_View_Interface $view = null) {
 		$this->removeDecorator('Label');
 		$this->removeDecorator('DtDdWrapper');
-//$this->removeDecorator('HtmlTag');
+        //$this->removeDecorator('HtmlTag');
 		return parent::render($view);
 	}
 

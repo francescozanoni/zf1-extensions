@@ -10,8 +10,6 @@
  */
 require_once 'Zend/Application/Resource/ResourceAbstract.php';
 
-// http://stackoverflow.com/questions/10357846/how-to-add-a-resource-type-via-application-ini
-
 /**
  * Adds a resource loader, resources can be loaded also via application.ini.
  *

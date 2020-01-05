@@ -21,10 +21,11 @@ require_once 'Zend/Form/Element/Hidden.php';
  */
 class Fz_Form_Element_Hidden extends Zend_Form_Element_Hidden {
 
-	public function render(Zend_View_Interface $view = null) {
-		$this->removeDecorator('Label');
-		$this->removeDecorator('HtmlTag');
-		return parent::render($view);
-	}
+    public function render(Zend_View_Interface $view = null)
+    {
+        $this->removeDecorator('Label');
+        $this->removeDecorator('HtmlTag');
+        return parent::render($view);
+    }
 
 }
