@@ -3,22 +3,22 @@
 /**
  * @category   Fz
  * @package    Fz_Form
- * @version    2020-01-05
+ * @version    2020-01-06
  */
 /**
- * @see Zend_Form
+ * @see Zend_Form_SubForm
  */
-require_once 'Fz/Form.php';
+require_once 'Zend/Form/SubForm.php';
 
 /**
  * Adds label to subform.
  *
  * @category   Fz
  * @package    Fz_Form
- * @uses       Fz_Form
+ * @uses       Zend_Form_SubForm
  * @link       http://zend-framework-community.634137.n4.nabble.com/SubForm-quot-Label-quot-td656049.html
  */
-class Fz_Form_SubForm extends Fz_Form
+class Fz_Form_SubForm extends Zend_Form_SubForm
 {
 
     /**
